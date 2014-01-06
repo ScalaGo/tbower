@@ -1,6 +1,6 @@
 {
   "name": "tbower",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The browser package manager for Taobao.",
   "author": "qiaofu",
   "licenses": [
@@ -74,7 +74,7 @@
     "test": "grunt test"
   },
   "bin": {
-    "bower": "bin/tbower"
+    "tbower": "bin/tbower"
   },
   "preferGlobal": true
 }
