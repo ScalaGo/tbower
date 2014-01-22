@@ -1,6 +1,6 @@
 {
   "name": "tbower",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "The browser package manager for Taobao.",
   "author": "qiaofu",
   "licenses": [
@@ -24,7 +24,7 @@
     "bower-endpoint-parser": "~0.2.0",
     "bower-json": "~0.4.0",
     "bower-logger": "~0.2.1",
-    "tbower-registry-client": "~0.0.2",
+    "tbower-registry-client": "~0.0.3",
     "cardinal": "~0.4.0",
     "chalk": "~0.2.0",
     "chmodr": "~0.1.0",
